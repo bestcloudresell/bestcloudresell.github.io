@@ -32,7 +32,7 @@ export function Navbar() {
 			<div className="container flex h-16 items-center justify-between">
 				<div className="flex items-center">
 					<a href="/" className="flex items-center space-x-2">
-						<span className="hidden text-xl font-bold sm:inline-block">
+						<span className="text-xl font-bold sm:inline-block">
 							<img
 								src="/bestcloudresell-logo-plain.svg"
 								alt="Logo"
